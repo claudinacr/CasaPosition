@@ -1,0 +1,109 @@
+.espacio{
+    height: 25em;
+}
+.Suelo{
+    background-color: #83B231;
+    width: 50em;
+    height: 3.5em;
+    position: relative;
+    top:10em;
+    left: 18em;
+}
+
+.Pared{
+    background-color: #A52A2A;
+    width: 50em;
+    height: 15em;
+    position: relative;
+    top:-8em;
+    left: 18em;
+}
+
+.Ventana1{
+    background-color: #FFC0CB;
+    width: 10em;
+    height: 10em;
+    position: relative;
+    top:-20em;
+    left: 21em;
+}
+
+.Ventana2{
+    background-color: #FFC0CB;
+    width: 10em;
+    height: 10em;
+    position: relative;
+    top:-30em;
+    left: 55em;
+}
+
+.Puerta{
+    background-color: #FFFFE0;
+    width: 12em;
+    height: 13em;
+    position: relative;
+    top:-41em;
+    left: 36.5em;
+}
+
+.Techo{
+    width: 700px;
+    height: 0px;
+    border-right: 70px solid transparent;
+    border-left: 70px solid transparent;
+    border-bottom: 100px solid #000000;
+    position: relative;
+    top:-62.2em;
+    left: 17em;
+    
+}
+
+.Chimenea{
+    width: 3.5em;
+    height: 4.5em;
+    position: relative;
+    background-color: #FFA500;
+    top:-71em;
+    left: 55em;
+    
+}
+
+.Humo{
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #AAAAAA;
+    top:-1285px;
+    left:54.5em;
+    position: relative;
+    
+}
+
+.Humo2{
+    width: 50px;
+    height: 50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #BBBBBB;
+    top:-1400px;
+    left:57em;
+    position: relative;
+    
+}
+
+.Humo3{
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #CCCCCC;
+    top:-1477px;
+    left:59em;
+    position: relative;
+    
+}
+
